@@ -1,6 +1,6 @@
 # Neural-Style-Transfer
 
-This is a Keras implementation of Neural Style Transfer with Total Variation loss on a TensorFlow Backend. 
+This is a Keras implementation of Neural Style Transfer with Total Variation loss with TensorFlow. 
 
 This implementation is based off of the papers "A Neural Algorithm of Artistic Style - Gatys et.al" and "Understanding Deep Image Representations by Inverting Them - Mahendran et.al".
 
